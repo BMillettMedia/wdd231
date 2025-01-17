@@ -1,0 +1,187 @@
+{
+    "recipeName": "Chocolate Chip Cookies",
+    "notes": "A Classic Cookie Recipe",
+    "ingredients": [
+        { 
+            "name": "butter",
+            "amounts": {
+                "amount": "1",
+                "unit": "lb"
+            },
+            "notes": "Softened"
+        },
+        { 
+            "name": "whiteSugar",
+            "amounts": {
+                "amount": "1",
+                "unit": "cup"
+            }
+        },
+        { 
+            "name": "brownSugar",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "cups"
+            }
+        },
+        { 
+            "name": "eggs",
+            "amounts": {
+                "amount": "3",
+                "unit": "each"
+            }
+        },
+        { 
+            "name": "vanilla",
+            "amounts": {
+                "amount": "2",
+                "unit": "tsp"
+            }
+        },
+        { 
+            "name": "bakingSoda",
+            "amounts": {
+                "amount": "1 1/2",
+                "unit": "tsp"
+            }
+        },
+        { 
+            "name": "salt",
+            "amounts": {
+                "amount": "1/2",
+                "unit": "tsp"
+            }
+        },
+        { 
+            "name": "flour",
+            "amounts": {
+                "amount": "5",
+                "unit": "cups"
+            },
+            "notes": "3 cups white, 2 cups whole wheat"
+        },
+        { 
+            "name": "chocolateChips",
+            "amounts": {
+                "amount": "2",
+                "unit": "cups"
+            },
+            "notes": "semi-sweet"
+        },
+        { 
+            "name": "Shreddedcoconut",
+            "amounts": {
+                "amount": "1-2",
+                "unit": "cups"
+            }
+        }
+    ],
+    "instructions": [
+        "Cream the butter and sugar together.",
+        "Beat in the eggs and vanilla.",
+        "Mix in salt, baking soda, and flour.",
+        "Add chocolate chips and coconut.",
+        "Bake at 350°F for 8-10 minutes."
+    ]
+}
+{
+    "recipeName": "Fried Rice",
+    "notes": "A quick and versatile fried rice recipe",
+    "ingredients": [
+        { 
+            "name": "cookedRice",
+            "amounts": {
+                "amount": "4",
+                "unit": "cups"
+            },
+            "notes": "Preferably day-old rice for best results"
+        },
+        { 
+            "name": "eggs",
+            "amounts": {
+                "amount": "2",
+                "unit": "each"
+            },
+            "notes": "Beaten"
+        },
+        { 
+            "name": "vegetableOil",
+            "amounts": {
+                "amount": "2",
+                "unit": "tbsp"
+            }
+        },
+        { 
+            "name": "soySauce",
+            "amounts": {
+                "amount": "3",
+                "unit": "tbsp"
+            }
+        },
+        { 
+            "name": "garlic",
+            "amounts": {
+                "amount": "2",
+                "unit": "cloves"
+            },
+            "notes": "Minced"
+        },
+        { 
+            "name": "onion",
+            "amounts": {
+                "amount": "1",
+                "unit": "each"
+            },
+            "notes": "Diced"
+        },
+        { 
+            "name": "frozenVegetables",
+            "amounts": {
+                "amount": "1",
+                "unit": "cup"
+            },
+            "notes": "Mixed vegetables like peas, carrots, and corn"
+        },
+        { 
+            "name": "greenOnions",
+            "amounts": {
+                "amount": "2",
+                "unit": "stalks"
+            },
+            "notes": "Chopped, for garnish"
+        },
+        { 
+            "name": "sesameOil",
+            "amounts": {
+                "amount": "1",
+                "unit": "tsp"
+            },
+            "notes": "Optional, for flavor"
+        },
+        { 
+            "name": "salt",
+            "amounts": {
+                "amount": "to taste",
+                "unit": ""
+            }
+        },
+        { 
+            "name": "pepper",
+            "amounts": {
+                "amount": "to taste",
+                "unit": ""
+            }
+        }
+    ],
+    "instructions": [
+        "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+        "Add the garlic and onion, sautéing until fragrant.",
+        "Push the garlic and onion to the side of the pan, then pour the beaten eggs into the skillet.",
+        "Scramble the eggs until just cooked, then mix them with the garlic and onion.",
+        "Add the cooked rice and frozen vegetables to the skillet, stirring to combine.",
+        "Pour in the soy sauce and sesame oil (if using), mixing everything evenly.",
+        "Season with salt and pepper to taste.",
+        "Cook for 5-7 minutes, stirring occasionally, until the rice is heated through.",
+        "Garnish with chopped green onions and serve hot."
+    ]
+}
